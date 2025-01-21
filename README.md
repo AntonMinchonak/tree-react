@@ -1,4 +1,4 @@
 # Tree on React
 
-npi i
-npm run dev
+# npi i
+# npm run dev
