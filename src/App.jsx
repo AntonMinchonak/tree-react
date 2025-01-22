@@ -1,4 +1,4 @@
-import '@/App.css';
+import 'shared/style/App.css';
 import { Route, Routes } from 'react-router-dom';
 import Main from 'pages/Main.jsx';
 import Tooltip from 'shared/ui/Tooltip/Tooltip.jsx';
